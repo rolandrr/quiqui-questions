@@ -10,7 +10,7 @@
 # Allowed characters: letters, digits, hyphen (-) and underscore (_), 1–64 characters.
 # No spaces, slashes, or dots — session_url becomes part of the join URL and QR code,
 # so an invalid value is rejected when you pull the repo (and would break the projector QR).
-session_url: demo
+session_url: ensae_metrics_1
 
 # Optional: a custom shortlink participants can type instead of the long /join/ URL.
 # (QuiQui also still reads the older key `student_shortlink` as a fallback.)
@@ -24,4 +24,4 @@ shuffle: false
 
 # Display name shown in the header and browser tab as "QuiQui: <title>"
 # Appears on both host and participant views.
-title: Demo Quiz
+title: Metrics 1
